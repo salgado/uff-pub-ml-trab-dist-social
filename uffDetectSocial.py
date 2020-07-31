@@ -1,6 +1,6 @@
 ############################
-#  Detecao de Distancia Social
-#  Aluno: Alex Salgado
+#  Deteccao de Distanciamento Social
+#  Autor: Alex Salgado
 # 
 #  Para executar, usar o script start.sh
 ############################
