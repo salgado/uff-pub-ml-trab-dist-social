@@ -48,7 +48,7 @@ def hLW():
         #"image": "https://www.earthcam.com/share/temp_images/1594654447140.jpg"
     }
     
-    client = Algorithmia.client('simzQM8BgYKMpiFvKnN13YJs+Oj1')
+    client = Algorithmia.client('suaChave')
     algo = client.algo('ukyvision/deephorizon/0.1.0')
     algo.set_options(timeout=300) # optional
     print(algo.pipe(imagem2).result)
